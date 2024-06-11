@@ -103,5 +103,9 @@ A user-friendly graphical interface was developed using React, coupled with a Py
 
 ![GUI](https://github.com/SBJ2000/Facial-Expression-Recognition-in-the-Wild-with-CNN-ResNet-GoogleNet-Inception-and-VGG-Models/blob/main/Images/GUI.png)
 
+## Additional Information
+
+For additionnal information especially for the code you can read the report in the report folder.
+
 ## Conclusion
 This data science mini-project focused on developing and evaluating facial expression recognition models for in-the-wild datasets using the FER 2013 dataset. Five different models were explored, each demonstrating unique architectures, training processes, and performance metrics. The Inception model achieved the highest validation accuracy, showcasing its architectural innovation and robust training process. Finally, a graphical user interface was developed to provide an interactive platform for utilizing the trained models, ensuring a user-friendly experience for facial expression analysis.
